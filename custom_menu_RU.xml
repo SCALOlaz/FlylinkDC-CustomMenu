@@ -14,5 +14,6 @@
   <MenuItem type="separator"/>
   <MenuItem type="submenu" name="Порталы Магнет">
 	<MenuItem type="menuItem" ico="http://dcshara.ru//favicon.ico" link="http://dcshara.ru/">DC++ Шара</MenuItem>
+	<MenuItem type="menuItem" ico="" link="">...</MenuItem>
   </MenuItem>
 </CustomMenu>
