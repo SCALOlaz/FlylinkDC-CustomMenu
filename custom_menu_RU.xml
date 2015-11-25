@@ -13,6 +13,6 @@
 	<MenuItem type="menuItem" link="http://flylinkdc.com/dokuwiki/doku.php?id=ru:faq#qкак_качать">  Как качать?</MenuItem>
   <MenuItem type="separator"/>
   <MenuItem type="submenu" name="Порталы Магнет">
-	<MenuItem type="menuItem" link="">...</MenuItem>
+	<MenuItem type="menuItem" ico="http://dcshara.ru//favicon.ico" link="http://dcshara.ru/">DC++ Шара</MenuItem>
   </MenuItem>
 </CustomMenu>
