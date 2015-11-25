@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CustomMenu name="Помощь по DC++">
+  <MenuItem type="submenu" name="FlylinkDC++ в сети">
+	<MenuItem type="menuItem" ico="http://www.flylinkdc.com/favicon.ico" link="http://www.flylinkdc.com">Сайт FlylinkDC++</MenuItem>
+	<MenuItem type="menuItem" link="http://flylinkdc.com/dokuwiki/">FlylinkDC++ DokuWiki - Помощь по клиенту</MenuItem>
+	<MenuItem type="menuItem" link="http://www.flylinkdc.com/forum/">FlylinkDC++ Форум</MenuItem>
+	<MenuItem type="menuItem" link="http://www.flylinkdc.ru">Блог и новости в мире DC++</MenuItem>
+  </MenuItem>
+  <MenuItem type="separator">(RU)</MenuItem>
+	<MenuItem type="menuItem" link="http://flylinkdc.com/dokuwiki/doku.php?id=ru:faq">Все известные вопросы и ответы (начните с этого пункта)</MenuItem>
+  	<MenuItem type="menuItem" link="http://flylinkdc.com/dokuwiki/doku.php?id=ru:faq#qне_могу_подключиться_к_хабу">  Не могу подключиться к хабу!</MenuItem>
+	<MenuItem type="menuItem" link="http://flylinkdc.com/dokuwiki/doku.php?id=ru:faq#qне_работает_поиск_что_делать">  Не работает поиск, что делать?</MenuItem>
+	<MenuItem type="menuItem" link="http://flylinkdc.com/dokuwiki/doku.php?id=ru:faq#qкак_качать">  Как качать?</MenuItem>
+  <MenuItem type="separator"/>
+  <MenuItem type="submenu" name="Порталы Магнет">
+	<MenuItem type="menuItem" link="">...</MenuItem>
+  </MenuItem>
+</CustomMenu>
